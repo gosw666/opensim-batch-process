@@ -12,7 +12,11 @@
 
 ## 视频教程
 
-🎥 [点击查看GUI使用教程](https://www.youtube.com/watch?v=B_9fDjJBLpA)
+[![OpenSim Batch Process GUI Tutorial](https://img.youtube.com/vi/B_9fDjJBLpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=B_9fDjJBLpA)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=B_9fDjJBLpA">🎥 点击在YouTube上观看完整视频</a>
+</p>
 
 ## 文件结构
 
